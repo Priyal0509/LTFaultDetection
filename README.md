@@ -1,5 +1,5 @@
 ## Repository Description
-Smart LT Line Fault Detection & Isolation System — Software-driven monitoring and control of Low Tension lines using ESP32, MQTT, FastAPI, and a real-time web dashboard. Detects overloads, open lines, and arc faults, and isolates faulty feeders without conventional circuit breakers.
+Smart LT Line Fault Detection & Isolation System - A Software-driven monitoring and control of Low Tension lines using ESP32, MQTT, FastAPI, and a real-time web dashboard. Detects overloads, open lines, and arc faults, and isolates faulty feeders without conventional circuit breakers.
 
 ---
 
